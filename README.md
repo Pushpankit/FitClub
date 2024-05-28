@@ -1,4 +1,4 @@
 # FitClub
 
-Hilink is a comprehensive tour and travel application designed to provide users with easy access to travel information and services. This project includes features like destination guides, route tracking, and real-time updates to ensure an enjoyable and stress-free travel experience.
+The Fitclub frontend project is a frontend version of a fitness gym website. It provides information on fitness programs, services, and community engagement. HTML structures content, CSS styles it, and JavaScript adds interactivity for a dynamic user experience.
 
